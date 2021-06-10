@@ -12,6 +12,8 @@
 - Checkout process (shipping, payment method, etc)
 - Payment integration
 
+## Screenshot
+![coggle](https://raw.githubusercontent.com/MovingMelody/TshirtStore-MernStack/main/Screenshot%202021-06-10%20172916.png)
 ## Usage
 
 ### ES Modules in Node
